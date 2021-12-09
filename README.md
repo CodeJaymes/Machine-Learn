@@ -1,1 +1,3 @@
-# Machine-Learn
+Hello, 
+My name is Udemeobong James and this is a documentation of my AI Journe 
+Lets Explore........
